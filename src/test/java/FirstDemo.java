@@ -6,6 +6,7 @@ public class FirstDemo {
 		System.out.println("Demo printted");
 		System.out.println("demo");
 		System.out.println("wait");
+		System.out.println("Demo wait");
 	}
 
 }
