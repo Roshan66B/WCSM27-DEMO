@@ -6,5 +6,6 @@ public class Sample {
 	public void sampel()
 	{
 		System.out.println("This is the sample");
+		System.out.println("Addes new sample");
 	}
 }
